@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Hello World!",
+  "description": "I just hate the google new tab page, making my own.",
+  "version": "1.0",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
